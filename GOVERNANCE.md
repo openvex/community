@@ -44,7 +44,7 @@ according to the maintainer consensus process.
 
 ## Maintainer Consensus
 
-Each OpenVEX project (e.g. spec, vex-go, vexctl, etc.) will have a their own
+Each OpenVEX project (e.g. spec, go-vex, vexctl, etc.) will have a their own
 set of maintainers.
 
 To reach a decision on an issue, proposal, or formal OVEP, the proponents need
