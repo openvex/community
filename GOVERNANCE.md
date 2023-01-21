@@ -85,7 +85,6 @@ towards consensus but needs to be explicitly recorded in the voting mechanism.
 Any changes intended to be merged in the OpenVEX repositories shall meet the
 following minimal criteria:
 
-- Commits must be signed by the author
 - Commits must be signed off
 - Pull requests must be approved by at least one of the project's maintainers
 
