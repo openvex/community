@@ -53,7 +53,7 @@ Conduct may be permanently removed from the project team.
 
 ## Reporting 
 
-For incidents occurring in the Kubernetes community, contact the 
+For incidents occurring in the OpenVEX community, contact the 
 [OpenVEX Maintainers](https://github.com/opevex/community/). 
 
 ## Acknowledgements
